@@ -1,0 +1,11 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "api": 1,
+  "description": "Python syntax highlighting and auto-indent",
+  "extensions": [".py", ".pyi", ".pyw"],
+  "entry": "index.js",
+  "author": "jano-editor",
+  "homepage": "https://janoeditor.dev",
+  "license": "MIT"
+}
